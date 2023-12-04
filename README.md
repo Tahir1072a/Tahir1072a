@@ -1,16 +1,19 @@
-### Hi there 👋
+# Merhaba, Benim Adım [GitHub Kullanıcı Adı]
 
-<!--
-**Tahir1072a/Tahir1072a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Merhaba! Ben [Adınız], bilgisayar mühendisliği öğrencisiyim. C# dilinde deneyim sahibiyim ve Unity framework'ü kullanarak küçük oyunlar geliştirdim. Halen Unity üzerinde çalışmalar yapmaktayım. Ayrıca Python dilini öğrenmeye başladım ve veri bilimi ile veri analizi konularına ilgi duyuyorum. Yapay zeka ve makine öğrenimi konularında kendimi geliştirmek istiyorum.
 
-Here are some ideas to get you started:
+## Çalışmalarım
+- **Unity Projeleri**: Özellikle oyun geliştirme üzerine odaklanmış, bazı küçük oyun projeleri geliştirdim.
+- **Python Veri Bilimi**: Python dilini veri bilimi ve veri analizi için kullanıyorum. Pandas, NumPy gibi kütüphaneler üzerinde çalışıyorum.
+- **Yapay Zeka ve Makine Öğrenimi**: Bu alanda kendimi geliştirmeye çalışıyorum. TensorFlow, Scikit-learn gibi kütüphaneleri öğreniyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İletişim
+- **LinkedIn**: [Profil Linki](LinkedIn_Profil_Linki)
+- **E-posta**: örnek@eposta.com
+
+## Katkılarınız
+Eğer projelerime katkıda bulunmak veya başka sorularınız varsa, lütfen iletişime geçmekten çekinmeyin! Açık kaynak katkılarına her zaman açığım.
+
+Teşekkürler!
+
