@@ -15,8 +15,6 @@
         <li><strong>Machine Learning:</strong>Numpt, Pandas, Matplotlip, Scikit Learn</li>
         <li><strong>DevOps:</strong> Docker, SOLID principles, LINQ (Language Integrated Query)</li>
     </ul>
-    <p>My GitHub account contains projects I have developed using these technologies. I create new projects to improve myself and regularly update my existing projects.</p>
-    <p>My goal is to further enhance my experience in software development and apply what I have learned. If you are interested in any of the projects on my GitHub account, please don't hesitate to get in touch with me. I'm always open to new projects and ideas!</p>
 </div>
 
 
