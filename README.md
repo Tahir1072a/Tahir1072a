@@ -4,15 +4,16 @@
 
 <hr/>
 <div align="center">
-    <p>I am currently a computer engineering student, focusing on the field of artificial intelligence. Additionally, the technologies I have learned so far are as follows:</p>
+    <p>I am currently a computer engineering student, focusing on the field of artificial intelligence and autonomous driving. Additionally, the technologies I have learned so far are as follows:</p>
     <ul align="left">
-        <li><strong>Languages & Frameworks:</strong> C#, ASP.NET Core (Web API), C (libpq, GTK+, algorithms), Python</li>
+        <li><strong>Languages:</strong> C#, C, C++, Python</li>
+        <li><strong>Framework</strong>ROS2, MATLAB/SIMULINK</li>
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton)</li>
-        <li><strong>APIs & Services:</strong> RESTful APIs, Web Services</li>
         <li><strong>Testing & Monitoring:</strong> Unit Testing</li>
-        <li><strong>Machine Learning:</strong>Numpt, Pandas, Matplotlip, Scikit Learn</li>
+        <li><strong>Machine Learning:</strong>Numpy, Pandas, Matplotlip, Scikit Learn</li>
+        <li><strong>Autonomous Driving:</strong>SLAM, Nav2</li>
         <li><strong>DevOps:</strong> Docker, SOLID principles, LINQ (Language Integrated Query)</li>
     </ul>
 </div>
