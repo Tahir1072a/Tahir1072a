@@ -11,7 +11,6 @@
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton)</li>
-        <li><strong>Testing & Monitoring:</strong> Unit Testing</li>
         <li><strong>Machine Learning:</strong> Numpy, Pandas, Matplotlip, Scikit Learn</li>
         <li><strong>Autonomous Driving:</strong> SLAM, Nav2</li>
         <li><strong>DevOps:</strong> Docker, SOLID principles, LINQ (Language Integrated Query)</li>
