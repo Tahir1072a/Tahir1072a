@@ -11,7 +11,7 @@
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton)</li>
-        <li><strong>Machine Learning:</strong> Numpy, Pandas, Matplotlip, Scikit Learn</li>
+        <li><strong>Machine Learning:</strong> Numpy, Pandas, Matplotlip </li>
         <li><strong>Autonomous Driving:</strong> Robot Localization</li>
     </ul>
 </div>
