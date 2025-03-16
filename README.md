@@ -8,6 +8,7 @@
     <ul align="left">
         <li><strong>Languages:</strong> Python, C#, C</li>
         <li><strong>Framework:</strong> ROS2, MATLAB/SIMULINK, Pytroch</li>
+        <li><strong>GUI:</strong> Tkinter</li>
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton)</li>
