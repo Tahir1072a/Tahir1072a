@@ -12,7 +12,7 @@
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Data Science:</strong> Numpy, Pandas, Matplotlip </li>
-        <li><strong>Autonomous Driving:</strong> Robot Localization</li>
+        <li><strong>Autonomous Driving:</strong> Robot Localization, Kalman Filter</li>
     </ul>
 </div>
 
