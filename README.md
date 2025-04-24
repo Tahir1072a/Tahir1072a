@@ -8,7 +8,7 @@
     <ul align="left">
         <li><strong>Languages:</strong> Python, C#, C</li>
         <li><strong>Framework:</strong> ROS2, MATLAB/SIMULINK </li>
-        <li><strong>GUI:</strong> Tkinter</li>
+        <li><strong>GUI:</strong> Tkinter, PYQT5</li>
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, Libpq</li>
         <li><strong>Architectural Patterns:</strong> Onion Architecture, OOP </li>
         <li><strong>Data Science:</strong> Numpy, Pandas, Matplotlip </li>
