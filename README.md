@@ -63,8 +63,6 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 
 ### 🚀 Projelerim
 
-Burada öne çıkan bazı projelerimi bulabilirsiniz:
-
 Burayı düzenleyeceğim...
 
 ---
