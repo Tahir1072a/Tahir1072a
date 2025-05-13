@@ -23,7 +23,7 @@
 - 🤔 Veri bilimi, yapay zeka veyahut otonom sistemler üzerinde çalışabileceğim staj yeri arıyorum. Önerilere açığım.
 - 💬 Bana python veyahut ros2 hakkında soru sorabilirsiniz.
 - 📫 Bana nasıl ulaşabilirsiniz: tahirifdn@gmail.com veya yukarıdaki LinkedIn profilimden.
-- ⚡ Ek bilgi:) Motor sürmeyi seviyorum.
+- ⚡ Hobi: Motor sürmeyi seviyorum ;).
 
 ---
 
