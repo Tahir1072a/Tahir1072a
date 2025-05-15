@@ -51,6 +51,7 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 **Veritabanları:**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="[MySQL Logosu]" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="[Microsoft SQL Server Logosu]" width="40" height="40"/></a>
 </p>
 
 **Araçlar & Platformlar:**
