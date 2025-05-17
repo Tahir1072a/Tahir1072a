@@ -17,7 +17,7 @@
 
 ### 👋 Hakkımda
 
-- 🔭 Şu anda python not defteri adlı repom üzerinde çalışıyorum. Python için ileri seviye konuların notlarını tutuyorum.
+- 🔭 Python not defterine koyacağım konuları bitirmiş bulunmaktayım. Okudukça düzenleme yapacağım sadece. Şimdi Wordle Bot Geliştirmeye başlıyorum.
 - 🌱 Kendimi python programlama dili konusunda ileri seviyeye taşımaya çalışıyorum.
 - 👯 Veri bilimi, yapay zeka veyahut otonom sistemler alanında proje geliştirmek isteyen kişiler ile işbirliği yapmaya açığım.
 - 🤔 Veri bilimi, yapay zeka veyahut otonom sistemler üzerinde çalışabileceğim staj yeri arıyorum. Önerilere açığım.
