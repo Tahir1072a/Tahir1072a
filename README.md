@@ -45,6 +45,7 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="[Pandas Logosu]" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="[NumPy Logosu]" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="[Matplotlib Logosu]" width="40" height="40"/></a>
+  <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pytest_logo.svg/1024px-Pytest_logo.svg.png" alt="[Pytest Logosu]" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="[.NET Logosu]" width="40" height="40"/></a>
 </p>
 
