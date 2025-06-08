@@ -20,7 +20,7 @@
 - 🔭 Python not defterine koyacağım konuları bitirmiş bulunmaktayım. Okudukça düzenleme yapacağım sadece. Şimdi Wordle Bot Geliştirmeye başlıyorum.
 - 🌱 Python konusunda uzmanlaşmaya çalışıyorum. Wordle Bot projesi ile unit test yazma ve bot geliştirme konusundaki yetenklerimi geliştirmeyi hedefliyorum.
 - 👯 Veri bilimi, yapay zeka veyahut otonom sistemler alanında proje geliştirmek isteyen kişiler ile işbirliği yapmaya açığım.
-- 🤔 Veri bilimi, yapay zeka veyahut otonom sistemler üzerinde çalışabileceğim staj yeri arıyorum. Önerilere açığım.
+- 🤔 Makine Öğrenmesi, Deep Learning konusunda kendimi geliştiriyorum. Kaynak önerisine açığım.
 - 💬 Bana python veyahut ros2 hakkında soru sorabilirsiniz.
 - 📫 Bana nasıl ulaşabilirsiniz: tahirifdn@gmail.com veya yukarıdaki LinkedIn profilimden.
 - ⚡ Hobi: Motor sürmeyi seviyorum ;).
