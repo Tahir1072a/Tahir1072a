@@ -47,10 +47,11 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib Logo" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow Logo" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET Logo" width="40" height="40"/></a>
   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Entity Framework / SQL Server Logo" width="40" height="40"/></a>   
 </p>
-
+<img src="1280px-scikit-learn-logo.png" height="100px"> | __Logo 1__ <br> File type: PNG <br> File size: 49 KB (1280 x 689 px) <br> File name: [1280px-scikit-learn-logo.png](https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png)
 **Veritabanları:**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="[MySQL Logosu]" width="40" height="40"/></a>
