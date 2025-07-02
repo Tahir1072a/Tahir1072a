@@ -68,7 +68,7 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 ### 🚀 Projelerim
 - Python Notes: https://github.com/Tahir1072a/Python_Notes
 - Robot Localization: https://github.com/Tahir1072a/RobotLocalization_SensorFusion
-
+- Titanic Veri Analizi: https://github.com/Tahir1072a/Titanic-Veri-Analizi
 ---
 
 ### 📊 GitHub İstatistiklerim
