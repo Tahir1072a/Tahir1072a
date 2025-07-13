@@ -66,7 +66,6 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="[Git Logosu]" width="40" height="40"/></a>
   <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="[Docker Logosu]" width="40" height="40"/></a>
   </p>
----
 
 ## 🚀 Projelerim (My Projects)
 
@@ -150,7 +149,6 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
     </td>
   </tr>
 </table>
----
 
 ### 📊 GitHub İstatistiklerim
 
