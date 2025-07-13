@@ -68,11 +68,88 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
   </p>
 ---
 
-### 🚀 Projelerim
-- Python Notes: https://github.com/Tahir1072a/Python_Notes
-- ML Model Visualizer: https://github.com/Tahir1072a/ML_Model_Visualizer
-- Robot Localization: https://github.com/Tahir1072a/RobotLocalization_SensorFusion
-- Titanic Veri Analizi: https://github.com/Tahir1072a/Titanic-Veri-Analizi
+## 🚀 Projelerim (My Projects)
+
+<table width="100%" bordercolor="#66b2b2">
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Robot Localization (Sensor Fusion)</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/RobotLocalization_SensorFusion" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Gazebo simülasyon ortamında, bir mobil robotun konumunu hassas bir şekilde belirlemek için IMU ve GPS verilerini sensör füzyonu teknikleriyle birleştiren ROS2 tabanlı bir proje.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
+          <img src="https://img.shields.io/badge/Gazebo-1E7497?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Python Notlarım</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/Python_Notes" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Veri bilimi ve makine öğrenmesi odaklı; Pandas, NumPy ve Scikit-learn gibi kütüphanelerin kullanımını içeren kapsamlı Python notları ve kod örnekleri.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+          <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      </p>
+    </td>
+  </tr>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ML Model Visualizer</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/ML_Model_Visualizer" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Popüler makine öğrenmesi sınıflandırma algoritmalarının karar sınırlarını (decision boundaries) interaktif olarak görselleştiren bir Streamlit web uygulaması.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+          <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Titanic Veri Analizi</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/Titanic-Veri-Analizi" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Klasik Titanic veri seti üzerinde keşifçi veri analizi (EDA), veri görselleştirme ve hayatta kalma oranını tahmin etmek için makine öğrenmesi modelleri geliştirme projesi.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+          <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+          <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub İstatistiklerim
