@@ -19,11 +19,6 @@
 ---
 
 ### 👋 Hakkımda
-
-- 🔭 Şu anda Node.js, Express ve MongoDB kullanarak ölçeklenebilir backend sistemleri ve RESTful API'ler geliştiriyorum.
-- 🌱 JavaScript ekosisteminde uzmanlaşarak, özellikle backend mimarileri (Clean Architecture, SOLID) ve API güvenliği konularında kendimi geliştiriyorum.
-- 👯 Backend veya veri bilimi projelerinde işbirliği yapmaya ve yeni teknolojiler öğrenmeye her zaman açığım.
-- 💬 Bana Node.js, JavaScript, Python hakkında soru sorabilirsiniz.
 - 📫 Bana nasıl ulaşabilirsiniz: tahirifdn@gmail.com veya yukarıdaki LinkedIn profilimden.
 - ⚡ Hobi: Motor sürmeyi seviyorum ;).
 
