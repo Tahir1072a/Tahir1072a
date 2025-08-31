@@ -1,9 +1,3 @@
-### 👋 Hakkımda
-- 📫 Bana nasıl ulaşabilirsiniz: tahirifdn@gmail.com veya yukarıdaki LinkedIn profilimden.
-- ⚡ Hobi: Motor sürmeyi seviyorum ;).
-
----
-
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
 
 Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım teknolojiler bulunmaktadır:
