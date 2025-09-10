@@ -38,7 +38,88 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 
 ## 🚀 Projelerim (My Projects)
 
-<table width="100%" bordercolor="#66b2b2"> <tr> <td width="50%" valign="top"> <h3 align="center">E-Ticaret Platformu Backend</h3> <p align="center"> <a href="https://github.com/Tahir1072a/e_ticaret" target="_blank"> <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p> <strong>Açıklama:</strong> Çok rollü (Admin, Müşteri, Satıcı) bir e-ticaret platformu için geliştirilmiş modüler ve ölçeklenebilir RESTful API. JWT tabanlı rol yetkilendirmesi, Mongoose Transactions ile veri bütünlüğü ve OpenAPI (Swagger) ile dokümantasyon gibi modern backend pratiklerini içerir. <br/><br/> <strong>Kullanılan Teknolojiler:</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/> </p> </td> <td width="50%" valign="top"> <h3 align="center">Robot Localization (Sensor Fusion)</h3> <p align="center"> <a href="https://github.com/Tahir1072a/RobotLocalization_SensorFusion" target="_blank"> <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p> <strong>Açıklama:</strong> Gazebo simülasyon ortamında, bir mobil robotun konumunu hassas bir şekilde belirlemek için IMU ve GPS verilerini sensör füzyonu teknikleriyle birleştiren ROS2 tabanlı bir proje. <br/><br/> <strong>Kullanılan Teknolojiler:</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/> <img src="https://img.shields.io/badge/Gazebo-1E7497?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">ML Model Visualizer</h3> <p align="center"> <a href="https://github.com/Tahir1072a/ML_Model_Visualizer" target="_blank"> <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p> <strong>Açıklama:</strong> Popüler makine öğrenmesi sınıflandırma algoritmalarının karar sınırlarını (decision boundaries) interaktif olarak görselleştiren bir Streamlit web uygulaması. <br/><br/> <strong>Kullanılan Teknolojiler:</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </p> </td> <td width="50%" valign="top"> <h3 align="center">Python Notlarım</h3> <p align="center"> <a href="https://github.com/Tahir1072a/Python_Notes" target="_blank"> <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p> <strong>Açıklama:</strong> Veri bilimi ve makine öğrenmesi odaklı; Pandas, NumPy ve Scikit-learn gibi kütüphanelerin kullanımını içeren kapsamlı Python notları ve kod örnekleri. <br/><br/> <strong>Kullanılan Teknolojiler:</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </p> </td> </tr> </table>
+<table width="100%" bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Blog Battle Platformu</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/blog_battle" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Kullanıcıların blog yazılarını oluşturup turnuva formatında yarıştırdığı, gerçek zamanlı oylama tabanlı bir Full Stack web uygulaması. Proje, modern state yönetimi için Redux Toolkit & RTK Query kullanılarak geliştirilmiştir.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">E-Ticaret Platformu Backend</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/e_ticaret" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Çok rollü (Admin, Müşteri, Satıcı) bir e-ticaret platformu için geliştirilmiş modüler ve ölçeklenebilir RESTful API. JWT tabanlı rol yetkilendirmesi, Mongoose Transactions ile veri bütünlüğü ve OpenAPI (Swagger) ile dokümantasyon gibi modern backend pratiklerini içerir.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Robot Localization (Sensor Fusion)</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/RobotLocalization_SensorFusion" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Gazebo simülasyon ortamında, bir mobil robotun konumunu hassas bir şekilde belirlemek için IMU ve GPS verilerini sensör füzyonu teknikleriyle birleştiren ROS2 tabanlı bir proje.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
+        <img src="https://img.shields.io/badge/Gazebo-1E7497?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ML Model Visualizer</h3>
+      <p align="center">
+        <a href="https://github.com/Tahir1072a/ML_Model_Visualizer" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Açıklama:</strong> Popüler makine öğrenmesi sınıflandırma algoritmalarının karar sınırlarını (decision boundaries) interaktif olarak görselleştiren bir Streamlit web uygulaması.
+        <br/><br/>
+        <strong>Kullanılan Teknolojiler:</strong>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub İstatistiklerim
 
