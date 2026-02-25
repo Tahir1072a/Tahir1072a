@@ -6,7 +6,6 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 <p align="left">
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="[C# Logosu]" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="[JavaScript Logosu]" width="40" height="40"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeScript/typeScript-original.svg" alt="[TypeScript Logosu]" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="[C Logosu]" width="40" height="40"/></a>
   </p>
 
