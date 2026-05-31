@@ -24,6 +24,7 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
 
 -   Projelerime katkıda bulunmaktan veya fikir alışverişinde bulunmaktan çekinmeyin!
 -   Eğer çalışmalarımı beğendiyseniz, projelerime bir ⭐ vermeyi düşünebilirsiniz.
+-   www.mywebsite.com üstünden projelerime ve cv'ime erişebilirsiniz.
 
 <div align="center">
   <p>Ziyaretiniz için teşekkürler! ✨</p>
