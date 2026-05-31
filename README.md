@@ -29,6 +29,22 @@ Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürett
 
 ---
 
+### 🚀 Öne Çıkan Projelerim
+
+Burada yayına aldığım ve aktif olarak geliştirilmesine devam ettiğim bazı projelerimi inceleyebilirsiniz:
+
+#### 🃏 Card Game
+React mimarisi ile geliştirilmiş, özel state yönetimi ve oyun motoru mekanikleri içeren tarayıcı tabanlı interaktif kart oyunu.
+- **Teknolojiler:** React, JavaScript, CSS
+- 🔗 **[Canlı Demo'yu Oyna](https://cardogame.netlify.app/)**
+
+#### 🥗 Omnifood Platform
+Modern web tasarım prensipleri ve responsive (duyarlı) tasarım odaklı hazırlanmış, kullanıcı dostu yemek abonelik platformu arayüzü.
+- **Teknolojiler:** HTML5, CSS3, JavaScript
+- 🔗 **[Siteyi İncele](https://via-omnifood.netlify.app/)**
+
+---
+
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
@@ -40,9 +56,9 @@ Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürett
 
 ---
 
-### 🤝 Bağlantı Kur & Portfolyo
+### 🤝 Bağlantı Kur
 
-Projelerimi incelemek, fikir alışverişinde bulunmak veya yeni fırsatlar için benimle iletişime geçebilirsiniz! 
+Fikir alışverişinde bulunmak veya yeni fırsatlar için benimle iletişime geçebilirsiniz! 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thr-fdn-4a88a620a/" target="_blank">
@@ -53,12 +69,6 @@ Projelerimi incelemek, fikir alışverişinde bulunmak veya yeni fırsatlar içi
   </a>
   <a href="https://www.harikasite.web.tr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-   <a href="https://via-omnifood.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Omnifood Website"/>
-  </a>
-  <a href="https://cardogame.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Card Game Website"/>
   </a>
 </p>
 
