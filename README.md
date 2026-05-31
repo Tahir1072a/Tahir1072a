@@ -1,19 +1,19 @@
 <h1 align="center">Merhaba, Ben Tahir Fidan 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Backend Architecture Enthusiast</h3>
+<h3 align="center">Full-Stack / Backend Developer | Architecture Enthusiast</h3>
 
 <p align="center">
-  Modern web teknolojileri ve ölçeklenebilir backend mimarileri üzerine odaklanan bir Bilgisayar Mühendisliği son sınıf öğrencisiyim. Karmaşık iş süreçlerini dijitalleştirmeyi, temiz kod (clean code) yazmayı ve uçtan uca yazılım yaşam döngüsünü yönetmeyi seviyorum.
+  Modern web teknolojileri ve ölçeklenebilir backend mimarileri üzerine odaklanan, Konya Teknik Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi ve aday mühendisim. Karmaşık iş süreçlerini dijitalleştirmeyi, temiz kod (clean code) yazmayı ve uçtan uca yazılım yaşam döngüsünü yönetmeyi seviyorum.
 </p>
 
 ---
 
 ### 👨‍💻 Hakkımda & Neler Yapıyorum?
 
-- 🔭 Şu anda **kurumsal iç yazılım sistemleri (ERP/BCP)** ve kapsamlı **diyetisyen/sağlık platformları** için backend API'leri geliştiriyorum.
-- 🌱 Yazılım süreçlerimde aktif olarak **Domain-Driven Design (DDD)**, **CQRS** ve **Generic Repository** mimari kalıplarını uyguluyorum.
-- ⚡ **Odak Alanlarım:** High-performance Backend Systems, RESTful API Design, Role-Based Access Control (RBAC), ve CI/CD Pipelines.
-- 💬 Bana **.NET ekosistemi, Next.js, yazılım mimarileri** veya **otonom araç simülasyonları** hakkında sorular sorabilirsiniz.
+- 🔭 Şu anda **BCP (Business Communication Portal)** gibi kurumsal IT envanter sistemleri, **AvioTest** gibi değerlendirme platformları ve kapsamlı **diyetisyen/sağlık platformları** için backend API'leri geliştiriyorum.
+- 🌱 Yazılım süreçlerimde N-Katmanlı mimari ile birlikte aktif olarak **Domain-Driven Design (DDD)**, **CQRS** ve **Generic Repository** mimari kalıplarını uyguluyorum.
+- ⚡ **Odak Alanlarım:** High-performance Backend Systems (C#), RESTful API Design, Kurumsal Dizin (LDAP) Entegrasyonları, Role-Based Access Control (RBAC) ve Excel Export gibi analitik raporlama modülleri.
+- 💬 Bana **.NET ekosistemi, Go (Golang), Next.js, yazılım mimarileri** veya Teknofest finalisti olduğum **otonom araç simülasyonları** hakkında sorular sorabilirsiniz.
 
 ---
 
@@ -31,17 +31,32 @@ Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürett
 
 ### 🚀 Öne Çıkan Projelerim
 
-Burada yayına aldığım ve aktif olarak geliştirilmesine devam ettiğim bazı projelerimi inceleyebilirsiniz:
+Burada mimarisini kurduğum, yayına aldığım ve aktif olarak geliştirmeye devam ettiğim projelerimi inceleyebilirsiniz:
 
-#### 🃏 Card Game
-React mimarisi ile geliştirilmiş, özel state yönetimi ve oyun motoru mekanikleri içeren tarayıcı tabanlı interaktif kart oyunu.
-- **Teknolojiler:** React, JavaScript, CSS
-- 🔗 **[Canlı Demo'yu Oyna](https://cardogame.netlify.app/)**
+#### 🏢 BCP (Business Communication Portal)
+IT envanter yönetimi ve kurum içi iletişim süreçlerini dijitalleştiren kapsamlı portal. Gelişmiş "Etki Analizi (Impact Analysis)" modülü, LDAP/Active Directory entegrasyonu ve RBAC yetkilendirmesi içerir.
+- **Teknolojiler:** C#, ASP.NET Core MVC, Entity Framework Core, N-Tier Architecture
+- 🔗 *(Kurumsal Kapalı Kaynak Proje)*
 
-#### 🥗 Omnifood Platform
-Modern web tasarım prensipleri ve responsive (duyarlı) tasarım odaklı hazırlanmış, kullanıcı dostu yemek abonelik platformu arayüzü.
-- **Teknolojiler:** HTML5, CSS3, JavaScript
-- 🔗 **[Siteyi İncele](https://via-omnifood.netlify.app/)**
+#### ✈️ AvioTest & Launcher
+Kapsamlı değerlendirme süreçlerini barındıran pilot test platformu ve Windows/macOS için Cloudflare S3 üzerinden otomatik güncelleme altyapısı sunan özel launcher uygulaması.
+- **Teknolojiler:** C#, .NET, Cloudflare S3
+- 🔗 *(Freelance Kapalı Kaynak Proje)*
+
+#### 📅 Diyetisyen Backend API
+Gelişmiş randevu sistemi, hasta takibi ve karmaşık iş mantıkları barındıran, ölçeklenebilir altyapıya sahip kapsamlı diyetisyen yönetim servisi.
+- **Teknolojiler:** Node.js, Express.js, Katmanlı Mimari (Layered Architecture)
+- 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/dietitian-backend)**
+
+#### 🌐 IoT Yönetim Platformu
+IoT cihazlarının tek bir merkezden yönetilmesini sağlayan, Thingsboard benzeri *multi-tenant* (çok kiracılı) mimariye sahip bitirme projesi.
+- **Teknolojiler:** C#, .NET Core, MQTT, WebSocket, PostgreSQL
+- 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/iot-management-platform)**
+
+#### ⚔️ Blog Battle
+Kullanıcıların blog yazılarıyla yarıştığı, arka planda özel turnuva ağacı (bracket) ve eşleştirme (matching) algoritmaları barındıran full-stack platform.
+- **Teknolojiler:** MongoDB, Express.js, React, Node.js
+- 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/Blog_Battle)**
 
 ---
 
