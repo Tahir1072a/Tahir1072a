@@ -10,10 +10,10 @@
 
 ### 👨‍💻 Hakkımda & Neler Yapıyorum?
 
-- 🔭 Şu anda **BCP (Business Communication Portal)** gibi kurumsal IT envanter sistemleri, **AvioTest** gibi değerlendirme platformları ve kapsamlı **diyetisyen/sağlık platformları** için backend API'leri geliştiriyorum.
+- 🔭 Şuan da uzaktan çalışmamın yanı sıra kendi projelerimi ölçeklendirmekteyim.
 - 🌱 Yazılım süreçlerimde N-Katmanlı mimari ile birlikte aktif olarak **Domain-Driven Design (DDD)**, **CQRS** ve **Generic Repository** mimari kalıplarını uyguluyorum.
 - ⚡ **Odak Alanlarım:** High-performance Backend Systems (C#), RESTful API Design, Kurumsal Dizin (LDAP) Entegrasyonları, Role-Based Access Control (RBAC) ve Excel Export gibi analitik raporlama modülleri.
-- 💬 Bana **.NET ekosistemi, Go (Golang), Next.js, yazılım mimarileri** veya Teknofest finalisti olduğum **otonom araç simülasyonları** hakkında sorular sorabilirsiniz.
+- 💬 Bana **.NET ekosistemi, Next.js, yazılım mimarileri** veya Teknofest finalisti olduğum **otonom araç simülasyonları** hakkında sorular sorabilirsiniz.
 
 ---
 
@@ -35,27 +35,33 @@ Burada mimarisini kurduğum, yayına aldığım ve aktif olarak geliştirmeye de
 
 #### 🏢 BCP (Business Communication Portal)
 IT envanter yönetimi ve kurum içi iletişim süreçlerini dijitalleştiren kapsamlı portal. Gelişmiş "Etki Analizi (Impact Analysis)" modülü, LDAP/Active Directory entegrasyonu ve RBAC yetkilendirmesi içerir.
-- **Teknolojiler:** C#, ASP.NET Core MVC, Entity Framework Core, N-Tier Architecture
+- **Teknolojiler:** C#,, Javascript, LDAP, Active Directory, ASP.NET Core MVC, Entity Framework Core, Quartz.Net, Cytoscape.js, N-Tier Architecture, MSSQL
 - 🔗 *(Kurumsal Kapalı Kaynak Proje)*
+
+#### ✈️ AvioTest WebSite
+www.aviotest.org web sitesinin deploy edilmesinden SEO ayarlarına kadar tamamının yapılmasından sorumlu oldum.
+- **Teknolojiler:** Javascript, Next.js, Cloudflare S3, Railway
+- 🔗 *(Freelance Kapalı Kaynak Proje)*
 
 #### ✈️ AvioTest & Launcher
 Kapsamlı değerlendirme süreçlerini barındıran pilot test platformu ve Windows/macOS için Cloudflare S3 üzerinden otomatik güncelleme altyapısı sunan özel launcher uygulaması.
-- **Teknolojiler:** C#, .NET, Cloudflare S3
+- **Teknolojiler:** C#, .NET, Cloudflare S3, PostgreSQL, OAuth2
 - 🔗 *(Freelance Kapalı Kaynak Proje)*
-
-#### 📅 Diyetisyen Backend API
-Gelişmiş randevu sistemi, hasta takibi ve karmaşık iş mantıkları barındıran, ölçeklenebilir altyapıya sahip kapsamlı diyetisyen yönetim servisi.
-- **Teknolojiler:** Node.js, Express.js, Katmanlı Mimari (Layered Architecture)
-- 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/dietitian-backend)**
 
 #### 🌐 IoT Yönetim Platformu
 IoT cihazlarının tek bir merkezden yönetilmesini sağlayan, Thingsboard benzeri *multi-tenant* (çok kiracılı) mimariye sahip bitirme projesi.
-- **Teknolojiler:** C#, .NET Core, MQTT, WebSocket, PostgreSQL
+- **Teknolojiler:** Javascript/Typescript Next.js, Aedes, Redis, MQTT, WebSocket, MongoDB
 - 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/iot-management-platform)**
 
 #### ⚔️ Blog Battle
 Kullanıcıların blog yazılarıyla yarıştığı, arka planda özel turnuva ağacı (bracket) ve eşleştirme (matching) algoritmaları barındıran full-stack platform.
 - **Teknolojiler:** MongoDB, Express.js, React, Node.js
+- 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/Blog_Battle)**
+
+#### ⚔️ Card Battle
+Basit card tabanlı kullanıcıların hayatta kalmya çlaışıtğı bir oyun.
+Canlı Link: https://cardogame.netlify.app/
+- **Teknolojiler:** Express.js, React, Node.js
 - 🔗 **[Projeyi İncele](https://github.com/Tahir1072a/Blog_Battle)**
 
 ---
