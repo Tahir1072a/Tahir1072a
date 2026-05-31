@@ -9,54 +9,6 @@ Aşağıda sıkça kullandığım veya üzerinde çalışmalar yaptığım tekno
   </a>
 </p>
 
-## 🚀 Projelerim (My Projects)
-
-<table width="100%" bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Blog Battle Platformu</h3>
-      <p align="center">
-        <a href="https://github.com/Tahir1072a/blog_battle" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <strong>Açıklama:</strong> Kullanıcıların blog yazılarını oluşturup turnuva formatında yarıştırdığı, gerçek zamanlı oylama tabanlı bir Full Stack web uygulaması. Proje, modern state yönetimi için Redux Toolkit & RTK Query kullanılarak geliştirilmiştir.
-        <br/><br/>
-        <strong>Kullanılan Teknolojiler:</strong>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">E-Ticaret Platformu Backend</h3>
-      <p align="center">
-        <a href="https://github.com/Tahir1072a/e_ticaret" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <strong>Açıklama:</strong> Çok rollü (Admin, Müşteri, Satıcı) bir e-ticaret platformu için geliştirilmiş modüler ve ölçeklenebilir RESTful API. JWT tabanlı rol yetkilendirmesi, Mongoose Transactions ile veri bütünlüğü ve OpenAPI (Swagger) ile dokümantasyon gibi modern backend pratiklerini içerir.
-        <br/><br/>
-        <strong>Kullanılan Teknolojiler:</strong>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
-      </p>
-    </td>
-  </tr>
-
-</table>
-
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
