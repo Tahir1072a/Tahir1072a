@@ -23,7 +23,7 @@ Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürett
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,python,nextjs,react,nodejs,express,mongodb,postgresql,cloudflare,docker,linux,git" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,python,nextjs,react,nodejs,express,mongodb,postgresql,cloudflare,redis,docker,linux,git" alt="Tech Stack" />
   </a>
 </p>
 
