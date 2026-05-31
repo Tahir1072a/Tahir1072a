@@ -54,6 +54,12 @@ Projelerimi incelemek, fikir alışverişinde bulunmak veya yeni fırsatlar içi
   <a href="https://www.harikasite.web.tr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
+   <a href="https://via-omnifood.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Omnifood Website"/>
+  </a>
+  <a href="https://cardogame.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Card Game Website"/>
+  </a>
 </p>
 
 <div align="center">
