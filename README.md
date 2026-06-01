@@ -6,7 +6,7 @@
   Modern web teknolojileri ve ölçeklenebilir backend mimarileri üzerine odaklanan, Konya Teknik Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi ve aday mühendisim. Karmaşık iş süreçlerini dijitalleştirmeyi, temiz kod (clean code) yazmayı ve uçtan uca yazılım yaşam döngüsünü yönetmeyi seviyorum.
 </p>
 
-<a href="https://tahirifdn.netlify.app/tr">Personle Web Site</a>
+<a href="https://tahirifdn.netlify.app">Personel Web Site</a>
 
 ---
 
