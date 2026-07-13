@@ -28,7 +28,7 @@ Beyond just writing code, I am deeply interested in how that code is safely depl
 
 ---
 
-### 🚀 My Project (I wrore the project examples on my natural language)
+### 🚀 My Project (I wrote the project examples on my natural language)
 
 #### 🏢 BCP (Business Communication Portal)
 IT envanter yönetimi ve kurum içi iletişim süreçlerini dijitalleştiren kapsamlı portal. Gelişmiş "Etki Analizi (Impact Analysis)" modülü, LDAP/Active Directory entegrasyonu ve RBAC yetkilendirmesi içerir.
