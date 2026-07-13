@@ -1,9 +1,9 @@
-<h1 align="center">Merhaba, Ben Tahir Fidan 👋</h1>
+<h1 align="center">Hi there!, I am Tahiri Fidan 👋</h1>
 
-<h3 align="center">Full-Stack / Backend Developer | Architecture Enthusiast</h3>
+<h3 align="center">Full-Stack / Backend Developer | Thinking About DevOps</h3>
 
 <p align="center">
-  Modern web teknolojileri ve ölçeklenebilir backend mimarileri üzerine odaklanan, Konya Teknik Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi ve aday mühendisim. Karmaşık iş süreçlerini dijitalleştirmeyi, temiz kod (clean code) yazmayı ve uçtan uca yazılım yaşam döngüsünü yönetmeyi seviyorum.
+ I recently graduated with a degree in Computer Engineering from Konya Technical University. Throughout my academic journey, I didn't just limit myself to coursework; I focused on developing robust backend architectures and full-stack applications using C#, Node.js (Express.js), and Next.js.
 </p>
 
 <a href="https://tahirifdn.netlify.app">Personel Web Site</a>
@@ -12,16 +12,13 @@
 
 ### 👨‍💻 Hakkımda & Neler Yapıyorum?
 
-- 🔭 Şuan da uzaktan çalışmamın yanı sıra kendi projelerimi ölçeklendirmekteyim.
-- 🌱 Yazılım süreçlerimde N-Katmanlı mimari ile birlikte aktif olarak **Domain-Driven Design (DDD)**, **CQRS** ve **Generic Repository** mimari kalıplarını uyguluyorum.
-- ⚡ **Odak Alanlarım:** High-performance Backend Systems (C#), RESTful API Design, Kurumsal Dizin (LDAP) Entegrasyonları, Role-Based Access Control (RBAC) ve Excel Export gibi analitik raporlama modülleri.
-- 💬 Bana **.NET ekosistemi, Next.js, yazılım mimarileri** veya Teknofest finalisti olduğum **otonom araç simülasyonları** hakkında sorular sorabilirsiniz.
+Currently, I am working as a part-time Candidate Software Engineer, writing code for enterprise-grade projects and gaining hands-on experience in solving real-world problems. As my current contract is nearing its completion next month, I am actively looking for new opportunities where I can make an impact. On the database side, while I am highly proficient with MongoDB, I am also continuously expanding my skills in relational database systems like PostgreSQL and MSSQL.
+
+Beyond just writing code, I am deeply interested in how that code is safely deployed to production. That's why I’ve been diving into Docker, CI/CD pipelines, and core DevOps concepts, learning how to integrate these practices into my projects. Ultimately, I am a growth-minded problem solver who isn't afraid of challenges, and I thrive on delivering value as a collaborative team player.
 
 ---
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
-
-Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürettiğim temel teknolojiler bulunmaktadır:
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,9 +28,7 @@ Aşağıda projelerimde aktif olarak kullandığım ve mimari çözümler ürett
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
-
-Burada mimarisini kurduğum, yayına aldığım ve aktif olarak geliştirmeye devam ettiğim projelerimi inceleyebilirsiniz:
+### 🚀 My Project (I wrore the project examples on my natural language)
 
 #### 🏢 BCP (Business Communication Portal)
 IT envanter yönetimi ve kurum içi iletişim süreçlerini dijitalleştiren kapsamlı portal. Gelişmiş "Etki Analizi (Impact Analysis)" modülü, LDAP/Active Directory entegrasyonu ve RBAC yetkilendirmesi içerir.
@@ -81,7 +76,7 @@ Canlı Link: https://cardogame.netlify.app/
 
 ### 🤝 Bağlantı Kur
 
-Fikir alışverişinde bulunmak veya yeni fırsatlar için benimle iletişime geçebilirsiniz! 
+İletişim önemli :)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thr-fdn-4a88a620a/" target="_blank">
